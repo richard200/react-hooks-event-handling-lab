@@ -7,7 +7,7 @@ function Keypad (){
 
 function handleKey(){
 
-    console.log("Entering Password");
+    console.log("Entering password...");
 }
 
     return (
